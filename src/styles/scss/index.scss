@@ -1,0 +1,88 @@
+@import "variables/colors";
+@import "variables/mixins";
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+header{
+  height: 110px;
+  border-bottom: $border;
+}
+
+footer{
+  border-top: $border;
+  height: 40px;
+  padding-top: 10px;
+}
+
+a{
+  color: $yellow;
+  &:hover{
+    color: grey;
+  }
+}
+
+h5{
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+h6{
+  @include text(14px, 500);
+}
+p, li{
+  @include text(14px, 300);
+}
+
+.position{
+  @include text(14px, 300);
+  font-style: italic;
+}
+
+.contact-list{
+  @include inline-list();
+  i{
+    color: $yellow;
+    margin-right: 3px;
+  }
+}
+
+
+.social-links{
+  @include inline-list();
+  li{
+    @include links();
+  }
+}
+
+
+.section-header{
+  font-size: 20px;
+  color: $yellow;
+  text-transform: uppercase;
+  display: inline-block;
+  &:after{
+    content: '';
+    display: block;
+    border-bottom: 2px solid $grey;
+    width: 55%;
+    padding-top: 5px;
+  }
+}
+.skills-list{
+  padding-left: 0;
+  columns: 4 200px;
+  li{
+    list-style-type: none;
+    margin-right: 15px;
+  }
+}
+.font-14{
+  font-size: 14px;
+}
+
+footer{
+  margin-top: 30px;
+}

@@ -1,0 +1,22 @@
+@mixin text($font-size, $font-weight){
+  font-size: $font-size;
+  font-weight: $font-weight;
+}
+
+@mixin inline-list{
+  padding-left: 0;
+  li{
+    list-style-type: none;
+    display: inline;
+    margin-right: 15px;
+  }
+}
+
+@mixin links{
+  a{
+    color: $yellow;
+    &:hover{
+      color: $grey;
+    }
+  }
+}

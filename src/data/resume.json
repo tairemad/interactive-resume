@@ -1,0 +1,257 @@
+{
+  "basicInfo": {
+    "name": "Tairema Dailey",
+    "title": "Front-End Developer",
+    "email": "tai@tairemadailey.com",
+    "phone": "(617) 839-9407",
+    "website": "http://tairemadailey.com"
+   },
+    "socialMedia": [
+      {
+        "network": "Twitter",
+        "url": "https://twitter.com/tairemadailey",
+        "icon": "fa fa-twitter-square fa-2x"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/tairema",
+        "icon": "fa fa-linkedin-square fa-2x"
+      },
+      {
+        "network": "Github",
+        "url": "https://github.com/tairemad",
+        "icon": "fa fa-github-square fa-2x"
+      },
+      {
+        "network": "Facebook",
+        "url": "https://www.facebook.com/tairemadailey",
+        "icon": "fa fa-facebook-square fa-2x"
+      }
+    ],
+  "experience": [
+    {
+      "company": "Monster Worldwide",
+      "url": "https://www.monster.com/",
+      "position": "Contract UX Developer",
+      "location": "Weston, MA",
+      "startDate": "07/16",
+      "endDate": "05/17",
+      "jobDesc": [
+        "Created a responsive web application using HTML5, CSS3, Bootstrap, LESS, and AngularJS",
+        "Rapidly prototyped user interface concepts for hiring.monster.com"
+      ]
+    },
+    {
+      "company": "SapientNitro",
+      "url": "http://www.sapientnitro.com/en-us.html#home",
+      "position": "Contract Front-End Developer",
+      "location": "Boston, MA",
+      "startDate": "05/16",
+      "endDate": "05/16",
+      "jobDesc": [
+        "Worked on list of updates and bug fix deliverables for client’s WordPress site using HTML/CSS, JavaScript, and jQuery"
+      ]
+    },
+    {
+      "company": "Fidelity Investments",
+      "url": "https://www.fidelity.com/",
+      "position": "Contract UX Developer",
+      "location": "Smithfield, RI",
+      "startDate": "01/16",
+      "endDate": "04/16",
+      "jobDesc": [
+        "Updated, created, and maintained demos using HTML/CSS, JavaScript, and JSON"
+      ]
+    },
+    {
+      "company": "Homesite Insurance",
+      "url": "https://go.homesite.com/",
+      "position": "Front-End Developer",
+      "location": "Boston, MA",
+      "startDate": "07/15",
+      "endDate": "01/16",
+      "jobDesc": [
+        "Developed new user-facing features and built reusable code and libraries for future use",
+        "Assure that all user input is validated and optimized for maximum speed and scalability before submitting to back-end",
+        "Collaborate with other team members and stakeholders as well as work independently to accomplish given tasks",
+        "Worked with CSS (LESS) frameworks, JavaScript frameworks (Backbone), and version control methodologies"
+      ]
+    },
+    {
+      "company": "Shoebuy.com",
+      "url": "https://www.shoes.com/",
+      "position": "Web UI Developer",
+      "location": "Boston, MA",
+      "startDate": "04/15",
+      "endDate": "07/15",
+      "jobDesc": [
+        "Maintained the Shoebuy.com website using HTML5, CSS3, SASS, JavaScript, and jQuery",
+        "Integrated the frontend within Java and Perl template code",
+        "Used command line, vim and grep searches in daily tasks",
+        "Worked on an Agile (Scrum) Development Team to deliver regular updates to business team and project managers"
+      ]
+    },
+    {
+      "company": "CVS Health",
+      "url": "http://www.cvs.com/",
+      "position": "Contract Front-End Developer",
+      "location": "Woonsocket, RI",
+      "startDate": "10/14",
+      "endDate": "04/15",
+      "jobDesc": [
+        "Built landing pages using HTML/CSS, JavaScript, and jQuery",
+        "Updated and built components on CVS.com website",
+        "Checked accessibility and 508 compliance, and built code to be compatible with all versions of IE back to IE6"
+      ]
+    },
+    {
+      "company": "SVM",
+      "url": "http://www.svmmarcom.com/",
+      "position": "Contract Front-End Developer",
+      "location": "Providence, RI",
+      "startDate": "09/14",
+      "endDate": "09/14",
+      "jobDesc": [
+        "Built a responsive web template from scratch using HTML/CSS for WordPress theme based off of PSD given"
+      ]
+    },
+    {
+      "company": "Northeastern University",
+      "url": "http://www.northeastern.edu/",
+      "position": "Contract Front-End Developer",
+      "location": "Boston, MA",
+      "startDate": "06/14",
+      "endDate": "08/14",
+      "jobDesc": [
+        "Increased front-end efficiency by transferring from old CMS to WordPress and brand associated them with Northeastern brand guidelines",
+        "Created UX design mockups and converted into web pages"
+      ]
+    },
+    {
+      "company": "Boston Globe",
+      "url": "https://www.bostonglobe.com/",
+      "position": "Contract Front-End Developer",
+      "location": "Boston, MA",
+      "startDate": "04/14",
+      "endDate": "04/14",
+      "jobDesc": [
+        "Updated the Boston.com user guide for consumers and advertisers per client specifications using HTML/CSS and JavaScript"
+      ]
+    },
+    {
+      "company": "Metropolis Creative",
+      "url": "http://www.metropoliscreative.com/",
+      "position": "Contract Front-End Developer",
+      "location": "Boston, MA",
+      "startDate": "02/14",
+      "endDate": "02/14",
+      "jobDesc": [
+        "Created code to retrieve product information from CSV file using taxonomies on a WordPress e-commerce site"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Girl Develop It",
+      "position": "Teacher & Teacher Assistant",
+      "website": "https://www.girldevelopit.com/",
+      "startDate": "09/14",
+      "endDate": "Present",
+      "summary": "Work with nonprofit organization to teach women HTML, CSS, JavaScript, Responsive Design, Wordpress and other web based languages"
+    }
+  ],
+  "education": [
+    {
+      "school": "University of Massachusetts at Amherst",
+      "url": "http://www.umass.edu/",
+      "major": "Sociology: Criminal Justice Certificate",
+      "degree": "Bachelor of Arts",
+      "location": "Amherst, MA"
+    },
+    {
+    "school": "The New England Institute of Art",
+    "url": "https://www.artinstitutes.edu/boston",
+    "major": "Web Design and Interactive Media",
+    "degree": "Bachelor of Science",
+    "location": "Brookline, MA"
+    },
+    {
+      "school": "General Assembly",
+      "url": "https://generalassemb.ly/",
+      "major": "JavaScript Development Course",
+      "degree": "",
+      "location": "Boston, MA"
+    },
+    {
+      "school": "Girl Develop It",
+      "url": "https://www.girldevelopit.com/",
+      "major": "Intro to ES6, Intro to AngularJS, Intro to ReactJS",
+      "degree": "",
+      "location": "Boston, MA"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "Javascript",
+        "PHP",
+        "jQuery",
+        "AJAX",
+        "AngularJs",
+        "ReactJs",
+        "NodeJs",
+        "SASS/LESS/Stylus",
+        "MySQL",
+        "Bootstrap",
+        "Grunt/Gulp/Webpack",
+        "WordPress",
+        "Sketch",
+        "Adobe Creative Suite"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+    "language": "Portuguese",
+    "fluency": "Conversational and written proficient"
+    },
+    {
+    "language": "Spanish",
+    "fluency": "Conversational and written proficient"
+    },
+    {
+    "language": "Cape Verdian Creole",
+    "fluency": "Conversational"
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ],
+  "projects":[
+    {
+      "name": "Interactive Resume",
+      "details": "This page is built by pulling data from a JSON file and is is displayed using ReactJS"
+    },
+    {
+      "name": "Insulin Calculator",
+      "details": "Built a calculator in AngularJS for type 1 diabetics to take the carbs they have ingested and add their carb to insulin ratio to determine how many units of insulin to take as well as calculate their correction factor to get their blood glucose in normal range and for pump users to calculate how much insulin they should add in their cartridges using Joslin Diabetes Clinic calculation worksheet"
+    },
+    {
+      "name": "Momentum Recreated",
+      "details": "Recreated the Chrome plugin Momentum in both ES6 and jQuery that pulls in a different background image from a collection in the Unsplash API, it displays the current time and based on geolocation or entering a city shows current weather using OpenWeather API and entering a search item display gifs from Giphy API and random quote from wikiQuotes API"
+    },
+    {
+      "name": "What’s Your Hashtag",
+      "details": "Built a NodeJS application that uses Twitter API to get tweets based off of search item entered and displayed using D3.js and is deployed on Heroku"
+    }
+  ]
+}
