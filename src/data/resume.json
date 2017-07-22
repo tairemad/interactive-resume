@@ -37,7 +37,7 @@
       "startDate": "07/16",
       "endDate": "05/17",
       "jobDesc": [
-        "Created a responsive web application using HTML5, CSS3, Bootstrap, LESS, and AngularJS",
+        "Created a responsive web application using HTML5, CSS3, Bootstrap, Less, and AngularJS",
         "Rapidly prototyped user interface concepts for hiring.monster.com"
       ]
     },
@@ -74,7 +74,7 @@
         "Developed new user-facing features and built reusable code and libraries for future use",
         "Assure that all user input is validated and optimized for maximum speed and scalability before submitting to back-end",
         "Collaborate with other team members and stakeholders as well as work independently to accomplish given tasks",
-        "Worked with CSS (LESS) frameworks, JavaScript frameworks (Backbone), and version control methodologies"
+        "Worked with CSS (Less) frameworks, JavaScript frameworks (Backbone), and version control methodologies"
       ]
     },
     {
@@ -85,7 +85,7 @@
       "startDate": "04/15",
       "endDate": "07/15",
       "jobDesc": [
-        "Maintained the Shoebuy.com website using HTML5, CSS3, SASS, JavaScript, and jQuery",
+        "Maintained the Shoebuy.com website using HTML5, CSS3, Sass, JavaScript, and jQuery",
         "Integrated the frontend within Java and Perl template code",
         "Used command line, vim and grep searches in daily tasks",
         "Worked on an Agile (Scrum) Development Team to deliver regular updates to business team and project managers"
@@ -202,7 +202,7 @@
         "AngularJs",
         "ReactJs",
         "NodeJs",
-        "SASS/LESS/Stylus",
+        "Sass/Less/Stylus",
         "MySQL",
         "Bootstrap",
         "Grunt/Gulp/Webpack",
