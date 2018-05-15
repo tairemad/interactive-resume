@@ -3,7 +3,7 @@ import React from 'react';
 
 const Volunteer = props =>{
     return(
-        <div className="col-md-12">
+        <div id="volunteer">
             <h2 className="section-header">Personal Development</h2>
                 {props.volunteer.map((org) =>
                         <div key={org.organization}>

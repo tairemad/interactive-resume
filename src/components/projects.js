@@ -2,7 +2,7 @@ import React from 'react';
 
 const Projects = props =>{
     return(
-        <div className="col-md-12">
+        <div id="projects">
             <h2 className="section-header">Personal Projects</h2>
                 {props.projects.map((project, i) =>
                         <div key={i}>

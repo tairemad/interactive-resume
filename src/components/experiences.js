@@ -3,7 +3,7 @@ import React from 'react';
 
 const Experience = props =>{
     return(
-        <div className="col-md-12">
+        <div id="experience">
             <h2 className="section-header">Experience</h2>
                 {props.experience.map((job, j) =>
                     <div key={j}>

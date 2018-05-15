@@ -30,6 +30,19 @@
     ],
   "experience": [
     {
+      "company": "Nevo Technologies",
+      "url": "https://www.nevo.com/",
+      "position": "Software Engineer",
+      "location": "Cambridge, MA",
+      "startDate": "08/17",
+      "endDate": "Present",
+      "jobDesc": [
+        "Build robust applications that fits the clients needs",
+        "Write clean and precise code that clients development team would be able to understand and use",
+        "Build application using front-end and back-end technologies that fit the clients specifications"
+      ]
+    },
+    {
       "company": "Monster Worldwide",
       "url": "https://www.monster.com/",
       "position": "Contract UX Developer",
@@ -199,9 +212,9 @@
         "PHP",
         "jQuery",
         "AJAX",
-        "AngularJs",
-        "ReactJs",
-        "NodeJs",
+        "Angular",
+        "React",
+        "Node",
         "Sass/Less/Stylus",
         "MySQL",
         "Bootstrap",

@@ -2,7 +2,7 @@ import React from 'react';
 
 const Skills = props => {
     return(
-        <div className="col-md-12">
+        <div id="skills">
         <h2 className="section-header">Skills</h2>
         <ul className="skills-list">
             {props.skills[0].keywords.map((item,index) =>

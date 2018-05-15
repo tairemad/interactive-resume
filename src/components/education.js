@@ -2,15 +2,16 @@ import React from 'react';
 
 const Education = props => {
     return(
-        <div className="col-md-12">
+        <div id="education">
             <h2 className="section-header">Education</h2>
             {props.education.map((school,index) =>
                 <div key={index}>
-                    <h5>{school.school} <span className="font-14 pull-right">{school.location}</span></h5>
+                    <h6>{school.school}</h6>
+                    <p className="city">{school.location}</p>
                     {(!(school.degree)) ? (
-                        <p>{school.major}</p>
+                        <p className="major"> {school.major}</p>
                     ) : (
-                        <p>{school.degree}, {school.major}</p>
+                        <p className="major"> {school.degree}, {school.major}</p>
                     )}
                 </div>
             )}
